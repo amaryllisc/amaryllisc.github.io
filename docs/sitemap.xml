@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://amaryllisc.github.io/addiction/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://amaryllisc.github.io/</loc>
   </url><url>
@@ -20,5 +19,7 @@
     <loc>https://amaryllisc.github.io/tags/</loc>
   </url><url>
     <loc>https://amaryllisc.github.io/acne_guide/</loc>
+  </url><url>
+    <loc>https://amaryllisc.github.io/korean/</loc>
   </url>
 </urlset>
