@@ -5,7 +5,9 @@ title: ""
 # 한국어 배우기
 
 ## 할일 (todo list)
-* pick a book/course below to follow.
+* pick a book/course below to follow:
+* week: review chapter independently and meet with mom for review/test (1 hr, tentatively on Wednesdays)
+* goal for this week (6/24): "getting ready" of Korean Grammar in Use
 * schedule weekly sessions to go through lessons.
 
 ## resources I searched
@@ -48,6 +50,8 @@ Popular apps/flash card tools used by language learners for vocab include:
 * being able to read a simple book.
 * [Test of Proficiency in Korean (TOPIK)](https://en.wikipedia.org/wiki/Test_of_Proficiency_in_Korean) used to measure 한글 proficiency for foreigners in Korea.
 
+## 딥스 and 디노 goals
+*
 
 ## misc. thoughts/contrarian wisdom on learning languages
 * **On Pronunciation**: to achieve proper pronunciation, one really needs to "prepare phonologically" for it, which involves changing their mindset from English pronunciation. Sometimes, people are afraid to do this for appearing too tryhard or for fear of messing up. We all know the apathetic American jockbro in Spanish class who almost deliberately pronounced every word in a non-Spanish accent. Sometimes, they do this out of anxiety because it actually sounds more natural to them, and they don't want to look like an idiot who speaks in a "foreign" accent. Americans have this narcissism because foreigners come to America trying to emulate an American accent and phonology. But, it's complete folly: to any native Spanish speaker, you would sound like an idiot speaking in that accent.
