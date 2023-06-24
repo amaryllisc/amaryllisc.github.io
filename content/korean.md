@@ -6,7 +6,7 @@ title: ""
 
 ## 할일 (todo list)
 * pick a book/course below to follow:
-* week: review chapter independently and meet with mom for review/test (1 hr, tentatively on Wednesdays)
+* week: review chapter independently and meet with mom for review/test (1 hr, tentatively on Wednesdays 8pm)
 * goal for this week (6/24): "getting ready" of Korean Grammar in Use
 * schedule weekly sessions to go through lessons.
 
