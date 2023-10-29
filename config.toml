@@ -1,0 +1,6 @@
+baseURL = "https://amaryllisc.github.io"
+#relativeURLs = true
+languageCode = 'en-us'
+title = 'Amaryllis'
+theme = 'lugo'
+publishDir = "docs"
