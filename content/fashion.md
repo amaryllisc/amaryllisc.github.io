@@ -41,9 +41,11 @@ title: "clothing"
 * non-neutral color sweatshirts/jumpers
 * tees/sweatshirts with non-advertisement graphics or vintage statements (better but not imperative if mean something personally interesting to me)
 * running shorts (not for fashion but for running)
+* running shoes (for running)
 
-# measurements
+# measurements/sizes
 * shoe size: 10.5, pant size: 33/32,
+* tees size: small/medium for slim fit/want to accentuate muscles, and large/x-large for oversized look.
 
 # sources
 * brands I've bought from in past: express, asos (online), banana republic, h&m, uniqlo, everlane, oak+fort, muji, pull&bear,
