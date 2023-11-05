@@ -22,6 +22,7 @@ title: "clothing"
 * [goth ninja](https://old.reddit.com/r/malefashionadvice/comments/1rd421/goth_ninja_guide_20/)
 * [pinterest album](https://www.pinterest.com/amaryllischan96/ff/) I created which will be updated over time.
 * [depop profile likes](https://www.depop.com/achan96/likes/)
+* [james scholz depop likes](https://www.depop.com/jvscholz/likes/)
 
 ## specific items might be good to have
 * more baggy/oversized clothing in general like oversized tees and jeans.
